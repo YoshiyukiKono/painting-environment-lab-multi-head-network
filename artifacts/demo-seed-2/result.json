@@ -1,0 +1,199 @@
+{
+  "final_error": 0.02050979621708393,
+  "steps": 32,
+  "stop_reason": "max_steps",
+  "trajectory": [
+    {
+      "decision": "stroke",
+      "stroke_index": 156,
+      "predicted_improvement": 0.02678908035159111,
+      "actual_improvement": 0.028128504753112793
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 668,
+      "predicted_improvement": 0.028063714504241943,
+      "actual_improvement": 0.028158873319625854
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 444,
+      "predicted_improvement": 0.027867820113897324,
+      "actual_improvement": 0.02602970600128174
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 828,
+      "predicted_improvement": 0.027543261647224426,
+      "actual_improvement": 0.023431777954101562
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 876,
+      "predicted_improvement": 0.02304757386445999,
+      "actual_improvement": 0.02621491253376007
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 236,
+      "predicted_improvement": 0.02349628508090973,
+      "actual_improvement": 0.02621494233608246
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 619,
+      "predicted_improvement": 0.020258208736777306,
+      "actual_improvement": 0.01567681133747101
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 908,
+      "predicted_improvement": 0.018318839371204376,
+      "actual_improvement": 0.01762549579143524
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 60,
+      "predicted_improvement": 0.016211271286010742,
+      "actual_improvement": 0.019504547119140625
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 396,
+      "predicted_improvement": 0.013321350328624249,
+      "actual_improvement": 0.01629617065191269
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 124,
+      "predicted_improvement": 0.01106975320726633,
+      "actual_improvement": 0.009814515709877014
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 12,
+      "predicted_improvement": 0.011597534641623497,
+      "actual_improvement": 0.010887742042541504
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 636,
+      "predicted_improvement": 0.012048253789544106,
+      "actual_improvement": 0.008292779326438904
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 1020,
+      "predicted_improvement": 0.009580478072166443,
+      "actual_improvement": 0.009814515709877014
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 940,
+      "predicted_improvement": 0.009325669147074223,
+      "actual_improvement": 0.007915213704109192
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 988,
+      "predicted_improvement": 0.0100815175101161,
+      "actual_improvement": 0.008920557796955109
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 92,
+      "predicted_improvement": 0.010272495448589325,
+      "actual_improvement": 0.007631722837686539
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 734,
+      "predicted_improvement": 0.008280985057353973,
+      "actual_improvement": -0.0057345665991306305
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 316,
+      "predicted_improvement": 0.005173893179744482,
+      "actual_improvement": 0.0064542703330516815
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 476,
+      "predicted_improvement": 0.004374024458229542,
+      "actual_improvement": 0.009594980627298355
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 380,
+      "predicted_improvement": 0.002324041910469532,
+      "actual_improvement": 0.0061201490461826324
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 412,
+      "predicted_improvement": 0.0014254525303840637,
+      "actual_improvement": 0.003987982869148254
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 652,
+      "predicted_improvement": 0.0027752923779189587,
+      "actual_improvement": 0.00410948321223259
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 860,
+      "predicted_improvement": 0.0034596319310367107,
+      "actual_improvement": 0.007566401734948158
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 700,
+      "predicted_improvement": 0.003649674355983734,
+      "actual_improvement": 0.0025528371334075928
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 28,
+      "predicted_improvement": 0.0033646286465227604,
+      "actual_improvement": 0.0013293307274580002
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 140,
+      "predicted_improvement": 0.002504942938685417,
+      "actual_improvement": 0.0013698246330022812
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 628,
+      "predicted_improvement": 0.0009739389643073082,
+      "actual_improvement": 0.0
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 628,
+      "predicted_improvement": 0.0009739389643073082,
+      "actual_improvement": 0.0
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 628,
+      "predicted_improvement": 0.0009739389643073082,
+      "actual_improvement": 0.0
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 628,
+      "predicted_improvement": 0.0009739389643073082,
+      "actual_improvement": 0.0
+    },
+    {
+      "decision": "stroke",
+      "stroke_index": 628,
+      "predicted_improvement": 0.0009739389643073082,
+      "actual_improvement": 0.0
+    }
+  ]
+}
